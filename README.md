@@ -40,15 +40,15 @@ docker-compose up -d --build
 [![LinkedIn][linkedin-shield]][linkedin-url] [![Gmail][gmail-shield]][gmail-url] [![Meu Portfolio][me-portfolio-shield]][me-portfolio-url]
 
 [contributors-shield]: https://img.shields.io/github/contributors/devrafaelsoares/todo-list.svg?style=for-the-badge
-[contributors-url]: https://github.com/devrafaelsoares/todo-list/graphs/contributors
+[contributors-url]: https://github.com/devrafaelsoares/nlw-journey-trip-planner/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/devrafaelsoares/todo-list.svg?style=for-the-badge
-[forks-url]: https://github.com/devrafaelsoares/todo-list/network/members
+[forks-url]: https://github.com/devrafaelsoares/nlw-journey-trip-planner/network/members
 [stars-shield]: https://img.shields.io/github/stars/github-profiles-app/react-countdown.svg?style=for-the-badge
-[stars-url]: https://github.com/devrafaelsoares/todo-list/stargazers
+[stars-url]: https://github.com/devrafaelsoares/nlw-journey-trip-planner/stargazers
 [issues-shield]: https://img.shields.io/github/issues/devrafaelsoares/todo-list.svg?style=for-the-badge
-[issues-url]: https://github.com/devrafaelsoares/todo-list/issues
+[issues-url]: https://github.com/devrafaelsoares/nlw-journey-trip-planner/issues
 [license-shield]: https://img.shields.io/github/license/devrafaelsoares/todo-list.svg?style=for-the-badge
-[license-url]: https://github.com/devrafaelsoares/todo-list/blob/master/LICENSE
+[license-url]: https://github.com/devrafaelsoares/nlw-journey-trip-planner/blob/master/LICENSE
 [license-url]: https://github.com/devrafaelsoares/store-api-restful/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]: https://www.linkedin.com/in/rafael-henrique-soares-de-freitas-2a667a23a/
